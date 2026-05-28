@@ -1,0 +1,6 @@
+{
+  "name": "JFT Kanji Master",
+  "description": "Japan Athwela - A comprehensive Sinhalese study companion with over 448 JFT Exam Kanji flashcards, interactive progress tracking, and knowledge quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
